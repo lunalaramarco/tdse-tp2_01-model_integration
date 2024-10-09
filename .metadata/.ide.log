@@ -1,0 +1,639 @@
+2024-10-09 20:04:18,352 [INFO] Activator:176 - 
+
+
+2024-10-09 20:04:18,355 [INFO] Activator:177 - !SESSION log4j initialized
+2024-10-09 20:04:23,460 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2024-10-09 20:04:27,904 [INFO] ApplicationProperties:184 - Using Application install path: C:\ST\STM32CubeIDE_1.16.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.0.202406281431
+2024-10-09 20:04:27,932 [INFO] DbMcusXml:78 - Set database path to: C:\ST\STM32CubeIDE_1.16.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.0.202406281431\\db\/mcu/
+2024-10-09 20:04:27,933 [INFO] ApiDb:274 - Set plugin database path to: C:\ST\STM32CubeIDE_1.16.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.0.202406281431\\db\/plugins/boardmanager/
+2024-10-09 20:04:27,935 [WARN] ApiDb:259 - Overriding images path with different value:  => C:\ST\STM32CubeIDE_1.16.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.0.202406281431\\db\/plugins/mcufinder/images/
+2024-10-09 20:04:27,943 [INFO] ApiDb:250 - Set database path to: C:\Users\User\.stmcufinder\plugins\mcufinder//mcu/
+2024-10-09 20:04:27,945 [INFO] DbMcusAds:125 - Set database path to: C:\Users\User\.stmcufinder\plugins\mcufinder//mcu/
+2024-10-09 20:04:27,948 [INFO] CrossReferenceDbSqlite:203 - Set database path to: C:\Users\User\.stmcufinder\plugins\mcufinder//mcu/cs/
+2024-10-09 20:04:28,134 [INFO] RulesReader:64 - Compatibility file has been processed (297 Rules)
+2024-10-09 20:04:28,443 [INFO] DbMcusXml:78 - Set database path to: C:\ST\STM32CubeIDE_1.16.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.0.202406281431\\db\/mcu/
+2024-10-09 20:04:28,443 [INFO] ApiDb:274 - Set plugin database path to: C:\ST\STM32CubeIDE_1.16.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.0.202406281431\\db\/plugins/boardmanager/
+2024-10-09 20:04:28,444 [INFO] ApiDb:261 - Set plugin images path to: C:\ST\STM32CubeIDE_1.16.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.0.202406281431\\db\/plugins/mcufinder/images/
+2024-10-09 20:04:28,444 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\User\.stmcufinder\plugins\mcufinder/ => C:\Users\User\.stmcufinder\plugins\mcufinder
+2024-10-09 20:04:28,444 [INFO] ApiDb:250 - Set database path to: C:\Users\User\.stmcufinder\plugins\mcufinder//mcu/
+2024-10-09 20:04:28,444 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\User\.stmcufinder\plugins\mcufinder/ => C:\Users\User\.stmcufinder\plugins\mcufinder
+2024-10-09 20:04:28,445 [INFO] DbMcusAds:125 - Set database path to: C:\Users\User\.stmcufinder\plugins\mcufinder//mcu/
+2024-10-09 20:04:28,445 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\User\.stmcufinder\plugins\mcufinder/ => C:\Users\User\.stmcufinder\plugins\mcufinder
+2024-10-09 20:04:28,445 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\User\.stmcufinder\plugins\mcufinder/ => C:\Users\User\.stmcufinder\plugins\mcufinder
+2024-10-09 20:04:28,445 [INFO] CrossReferenceDbSqlite:203 - Set database path to: C:\Users\User\.stmcufinder\plugins\mcufinder//mcu/cs/
+2024-10-09 20:04:28,798 [INFO] MainPanel:268 - HeapMemory: 268435456
+2024-10-09 20:04:28,893 [INFO] DbMcusXml:78 - Set database path to: C:\ST\STM32CubeIDE_1.16.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.0.202406281431\\db\/mcu/
+2024-10-09 20:04:28,894 [INFO] ApiDb:274 - Set plugin database path to: C:\ST\STM32CubeIDE_1.16.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.0.202406281431\\db\/plugins/boardmanager/
+2024-10-09 20:04:28,894 [INFO] ApiDb:261 - Set plugin images path to: C:\ST\STM32CubeIDE_1.16.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.0.202406281431\\db\/plugins/mcufinder/images/
+2024-10-09 20:04:28,894 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\User\.stmcufinder\plugins\mcufinder/ => C:\Users\User\.stmcufinder\plugins\mcufinder
+2024-10-09 20:04:28,894 [INFO] ApiDb:250 - Set database path to: C:\Users\User\.stmcufinder\plugins\mcufinder//mcu/
+2024-10-09 20:04:28,894 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\User\.stmcufinder\plugins\mcufinder/ => C:\Users\User\.stmcufinder\plugins\mcufinder
+2024-10-09 20:04:28,895 [INFO] DbMcusAds:125 - Set database path to: C:\Users\User\.stmcufinder\plugins\mcufinder//mcu/
+2024-10-09 20:04:28,895 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\User\.stmcufinder\plugins\mcufinder/ => C:\Users\User\.stmcufinder\plugins\mcufinder
+2024-10-09 20:04:28,895 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\User\.stmcufinder\plugins\mcufinder/ => C:\Users\User\.stmcufinder\plugins\mcufinder
+2024-10-09 20:04:28,895 [INFO] CrossReferenceDbSqlite:203 - Set database path to: C:\Users\User\.stmcufinder\plugins\mcufinder//mcu/cs/
+2024-10-09 20:04:28,960 [INFO] ApplicationProperties:184 - Using Application install path: C:\ST\STM32CubeIDE_1.16.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.0.202406281431
+2024-10-09 20:04:28,962 [INFO] PluginManage:196 - Search for loadable plugins [exclusion list=, ]
+2024-10-09 20:04:28,964 [INFO] PluginManage:310 - Check plugin analytics
+2024-10-09 20:04:29,242 [INFO] AnalyticsPlugin:253 - Accepted Software Licenses: 
+2024-10-09 20:04:29,243 [INFO] AnalyticsPlugin:255 - Accepted CMSIS Pack Licenses: 
+2024-10-09 20:04:29,243 [INFO] AnalyticsPlugin:257 - Accepted Firmware Licenses: 
+2024-10-09 20:04:29,246 [INFO] PluginManage:359 - Loaded plugin analytics (category:tool,tabindex:-1)
+2024-10-09 20:04:29,247 [INFO] PluginManage:310 - Check plugin cadmodel
+2024-10-09 20:04:29,257 [INFO] CADModel:105 - Init CAD model plugin
+2024-10-09 20:04:29,257 [INFO] PluginManage:359 - Loaded plugin cadmodel (category:power,tabindex:5)
+2024-10-09 20:04:29,258 [INFO] PluginManage:310 - Check plugin clock
+2024-10-09 20:04:29,272 [INFO] PluginManage:359 - Loaded plugin clock (category:base,tabindex:2)
+2024-10-09 20:04:29,273 [INFO] PluginManage:310 - Check plugin ddr
+2024-10-09 20:04:29,276 [INFO] PluginManage:359 - Loaded plugin ddr (category:tool,tabindex:6)
+2024-10-09 20:04:29,278 [INFO] PluginManage:310 - Check plugin filemanager
+2024-10-09 20:04:29,484 [INFO] PluginManage:359 - Loaded plugin filemanager (category:base,tabindex:10)
+2024-10-09 20:04:29,484 [INFO] PluginManage:310 - Check plugin ipmanager
+2024-10-09 20:04:29,504 [INFO] PluginManage:359 - Loaded plugin ipmanager (category:base,tabindex:5)
+2024-10-09 20:04:29,505 [INFO] PluginManage:310 - Check plugin lpbam
+2024-10-09 20:04:29,519 [INFO] PluginManage:359 - Loaded plugin lpbam (category:base,tabindex:0)
+2024-10-09 20:04:29,519 [INFO] PluginManage:310 - Check plugin memorymap
+2024-10-09 20:04:29,538 [INFO] PluginManage:359 - Loaded plugin memorymap (category:base,tabindex:4)
+2024-10-09 20:04:29,539 [INFO] PluginManage:310 - Check plugin pinoutandconfiguration
+2024-10-09 20:04:29,553 [INFO] PluginManage:359 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2024-10-09 20:04:29,553 [INFO] PluginManage:310 - Check plugin pinoutconfig
+2024-10-09 20:04:29,688 [WARN] SupportedApi:132 - Cannot load RTOS API schema: s4s-elt-must-match.1: The content of 'definitions' must match (annotation?, (simpleType | complexType)?, (unique | key | keyref)*)). A problem was found starting at: attribute.
+2024-10-09 20:04:29,855 [INFO] PluginManage:359 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2024-10-09 20:04:29,855 [INFO] PluginManage:310 - Check plugin power
+2024-10-09 20:04:29,868 [INFO] PluginManage:359 - Loaded plugin power (category:power,tabindex:4)
+2024-10-09 20:04:29,868 [INFO] PluginManage:310 - Check plugin projectmanager
+2024-10-09 20:04:29,933 [INFO] PluginManage:359 - Loaded plugin projectmanager (category:projectmanager,tabindex:4)
+2024-10-09 20:04:29,933 [INFO] PluginManage:310 - Check plugin rif
+2024-10-09 20:04:29,940 [INFO] PluginManage:359 - Loaded plugin rif (category:base,tabindex:3)
+2024-10-09 20:04:29,940 [INFO] PluginManage:310 - Check plugin thirdparty
+2024-10-09 20:04:30,118 [INFO] PluginManage:359 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2024-10-09 20:04:30,118 [WARN] IntegrityCheckThread:84 - waiting for thirdparty lock release [integrity check]
+2024-10-09 20:04:30,120 [INFO] IntegrityCheckThread:86 - entering critical section [integrity check]
+2024-10-09 20:04:30,120 [INFO] PluginManage:310 - Check plugin tools
+2024-10-09 20:04:30,127 [INFO] ThirdPartyUpdaterWithRetryManager:70 - Updater plugin not ready yet. [1/15]
+2024-10-09 20:04:30,129 [INFO] PluginManage:359 - Loaded plugin tools (category:base,tabindex:7)
+2024-10-09 20:04:30,129 [INFO] PluginManage:310 - Check plugin tutovideos
+2024-10-09 20:04:30,339 [INFO] PluginManage:359 - Loaded plugin tutovideos (category:base,tabindex:-1)
+2024-10-09 20:04:30,339 [INFO] PluginManage:310 - Check plugin updater
+2024-10-09 20:04:30,372 [INFO] PluginManage:359 - Loaded plugin updater (category:base,tabindex:12)
+2024-10-09 20:04:30,372 [INFO] PluginManage:310 - Check plugin userauth
+2024-10-09 20:04:30,381 [INFO] UserAuth:113 - Init User Auth plugin
+2024-10-09 20:04:30,381 [INFO] PluginManage:359 - Loaded plugin userauth (category:base,tabindex:14)
+2024-10-09 20:04:30,382 [INFO] PluginManage:283 - PluginManage : Loaded plugins [18]
+2024-10-09 20:04:30,880 [INFO] PinOutPanel:1561 - setPackage(No Configuration,No Configuration)
+2024-10-09 20:04:31,295 [INFO] CADModel:165 - CPN selected for project level
+2024-10-09 20:04:31,295 [INFO] CADModel:114 - Register for checkConnection events
+2024-10-09 20:04:31,315 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,316 [INFO] PluginManager:220 - loadIPPluginJar : add adc
+2024-10-09 20:04:31,319 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,319 [INFO] PluginManager:220 - loadIPPluginJar : add aes
+2024-10-09 20:04:31,322 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,322 [INFO] PluginManager:220 - loadIPPluginJar : add can
+2024-10-09 20:04:31,324 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,324 [INFO] PluginManager:220 - loadIPPluginJar : add comp
+2024-10-09 20:04:31,327 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,327 [INFO] PluginManager:220 - loadIPPluginJar : add cryp
+2024-10-09 20:04:31,330 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,330 [INFO] PluginManager:220 - loadIPPluginJar : add ddr_ctrl_phy
+2024-10-09 20:04:31,333 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,333 [INFO] PluginManager:220 - loadIPPluginJar : add dfsdm
+2024-10-09 20:04:31,339 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,341 [INFO] PluginManager:220 - loadIPPluginJar : add dma
+2024-10-09 20:04:31,344 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,344 [INFO] PluginManager:220 - loadIPPluginJar : add dma3
+2024-10-09 20:04:31,348 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,348 [INFO] PluginManager:220 - loadIPPluginJar : add extmemmanager
+2024-10-09 20:04:31,350 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,350 [INFO] PluginManager:220 - loadIPPluginJar : add fatfs
+2024-10-09 20:04:31,356 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,356 [INFO] PluginManager:220 - loadIPPluginJar : add fmc
+2024-10-09 20:04:31,366 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,366 [INFO] PluginManager:220 - loadIPPluginJar : add freertos
+2024-10-09 20:04:31,368 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,368 [INFO] PluginManager:220 - loadIPPluginJar : add genericplugin
+2024-10-09 20:04:31,370 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,371 [INFO] PluginManager:220 - loadIPPluginJar : add gfxmmu
+2024-10-09 20:04:31,376 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,376 [INFO] PluginManager:220 - loadIPPluginJar : add gic
+2024-10-09 20:04:31,382 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,382 [INFO] PluginManager:220 - loadIPPluginJar : add gpio
+2024-10-09 20:04:31,386 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,386 [INFO] PluginManager:220 - loadIPPluginJar : add gtzc
+2024-10-09 20:04:31,390 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,390 [INFO] PluginManager:220 - loadIPPluginJar : add hash
+2024-10-09 20:04:31,394 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,394 [INFO] PluginManager:220 - loadIPPluginJar : add i2c
+2024-10-09 20:04:31,398 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,399 [INFO] PluginManager:220 - loadIPPluginJar : add i2s
+2024-10-09 20:04:31,402 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,403 [INFO] PluginManager:220 - loadIPPluginJar : add i3c
+2024-10-09 20:04:31,407 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,407 [INFO] PluginManager:220 - loadIPPluginJar : add ipddr
+2024-10-09 20:04:31,414 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,415 [INFO] PluginManager:220 - loadIPPluginJar : add linkedlist
+2024-10-09 20:04:31,418 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,419 [INFO] PluginManager:220 - loadIPPluginJar : add lorawan
+2024-10-09 20:04:31,420 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,420 [INFO] PluginManager:220 - loadIPPluginJar : add ltdc
+2024-10-09 20:04:31,427 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,427 [INFO] PluginManager:220 - loadIPPluginJar : add mdma
+2024-10-09 20:04:31,432 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,432 [INFO] PluginManager:220 - loadIPPluginJar : add nvic
+2024-10-09 20:04:31,437 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,437 [INFO] PluginManager:220 - loadIPPluginJar : add opamp
+2024-10-09 20:04:31,441 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,441 [INFO] PluginManager:220 - loadIPPluginJar : add openamp
+2024-10-09 20:04:31,444 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,444 [INFO] PluginManager:220 - loadIPPluginJar : add pdm2pcm
+2024-10-09 20:04:31,453 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,456 [INFO] PluginManager:220 - loadIPPluginJar : add plateformsettings
+2024-10-09 20:04:31,458 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,459 [INFO] PluginManager:220 - loadIPPluginJar : add quadspi
+2024-10-09 20:04:31,461 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,462 [INFO] PluginManager:220 - loadIPPluginJar : add radio
+2024-10-09 20:04:31,468 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,468 [INFO] PluginManager:220 - loadIPPluginJar : add resmgrutility
+2024-10-09 20:04:31,472 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,472 [INFO] PluginManager:220 - loadIPPluginJar : add sai
+2024-10-09 20:04:31,475 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,475 [INFO] PluginManager:220 - loadIPPluginJar : add spi
+2024-10-09 20:04:31,481 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,481 [INFO] PluginManager:220 - loadIPPluginJar : add stm32_wpan
+2024-10-09 20:04:31,484 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,484 [INFO] PluginManager:220 - loadIPPluginJar : add tim
+2024-10-09 20:04:31,489 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,489 [INFO] PluginManager:220 - loadIPPluginJar : add touchsensing
+2024-10-09 20:04:31,492 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,492 [INFO] PluginManager:220 - loadIPPluginJar : add tracer_emb
+2024-10-09 20:04:31,494 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,494 [INFO] PluginManager:220 - loadIPPluginJar : add ts
+2024-10-09 20:04:31,496 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,496 [INFO] PluginManager:220 - loadIPPluginJar : add tsc
+2024-10-09 20:04:31,500 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,501 [INFO] PluginManager:220 - loadIPPluginJar : add ucpd
+2024-10-09 20:04:31,505 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,505 [INFO] PluginManager:220 - loadIPPluginJar : add usart
+2024-10-09 20:04:31,508 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-10-09 20:04:31,509 [INFO] PluginManager:220 - loadIPPluginJar : add usbx
+2024-10-09 20:04:31,659 [INFO] CADModel:165 - CPN selected for project level
+2024-10-09 20:04:31,660 [INFO] CADModel:114 - Register for checkConnection events
+2024-10-09 20:04:31,660 [FATAL] Updater:334 - Updater called before beeing initialized
+2024-10-09 20:04:31,660 [ERROR] CADModel:125 - Updater not yet initialized, retry later 
+2024-10-09 20:04:31,841 [INFO] CADModel:165 - CPN selected for project level
+2024-10-09 20:04:31,841 [INFO] CADModel:114 - Register for checkConnection events
+2024-10-09 20:04:31,842 [FATAL] Updater:334 - Updater called before beeing initialized
+2024-10-09 20:04:31,842 [ERROR] CADModel:125 - Updater not yet initialized, retry later 
+2024-10-09 20:04:31,847 [FATAL] Updater:334 - Updater called before beeing initialized
+2024-10-09 20:04:32,092 [FATAL] Updater:334 - Updater called before beeing initialized
+2024-10-09 20:04:32,097 [INFO] DbMcusAds:53 - JSON generation date=Fri Sep 20 10:04:23 ART 2024 (1726837463113)
+2024-10-09 20:04:32,098 [FATAL] Updater:334 - Updater called before beeing initialized
+2024-10-09 20:04:32,144 [WARN] DetailPanel:346 - Failed to get advertising image, set to default
+2024-10-09 20:04:32,353 [FATAL] Updater:334 - Updater called before beeing initialized
+2024-10-09 20:04:32,355 [FATAL] Updater:334 - Updater called before beeing initialized
+2024-10-09 20:04:32,355 [FATAL] Updater:334 - Updater called before beeing initialized
+2024-10-09 20:04:32,356 [WARN] DetailPanel:346 - Failed to get advertising image, set to default
+2024-10-09 20:04:32,357 [FATAL] Updater:334 - Updater called before beeing initialized
+2024-10-09 20:04:32,469 [ERROR] Updater:1164 - MainUpdater not yet initialized. External WinMGr cannot be set.
+2024-10-09 20:04:32,471 [INFO] Updater:1100 - Updater Version found : 6.12.0
+2024-10-09 20:04:32,490 [INFO] ApplicationProperties:184 - Using Application install path: C:\ST\STM32CubeIDE_1.16.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.0.202406281431
+2024-10-09 20:04:33,129 [INFO] ThirdPartyUpdaterWithRetryManager:70 - Updater plugin not ready yet. [2/15]
+2024-10-09 20:04:34,068 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 09, 2024 8:04:34 PM java.util.prefs.WindowsPreferences <init>
+2024-10-09 20:04:34,071 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0xffffffff80000002. Windows RegCreateKeyEx(...) returned error code 5.
+2024-10-09 20:04:34,071 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2024-10-09 20:04:34,377 [INFO] MainUpdater:2873 - connection check result : 10
+2024-10-09 20:04:34,379 [INFO] MainUpdater:290 - Updater Check For Update Now.
+2024-10-09 20:04:34,380 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.120
+2024-10-09 20:04:34,390 [INFO] McuFinderGlobals:63 - Set McuFinder mode to 2 (CubeIDE integrated)
+2024-10-09 20:04:34,391 [INFO] UserAuth:417 - Internet connection configuration mode: 1
+2024-10-09 20:04:34,413 [INFO] JxBrowserEngine:152 - Initiate JxBrowser Engine with user profile folder
+2024-10-09 20:04:34,769 [INFO] CheckServerUpdateThread:120 - End of CheckServer Thread
+2024-10-09 20:04:35,876 [INFO] WebApp:167 - Instantiating new browser for Auth
+2024-10-09 20:04:41,843 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-MOTENVWB1.1.4.0
+2024-10-09 20:04:42,067 [INFO] WebApp:448 - Apply proxy settings
+2024-10-09 20:04:42,067 [INFO] WebApp:533 - Chromium requires no authentication
+2024-10-09 20:04:43,367 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SMBUS.2.1.0
+2024-10-09 20:04:44,029 [INFO] WebApp:476 - Direct internet connection detected
+2024-10-09 20:04:46,862 [INFO] WebApp:869 - Register for checkConnection events
+2024-10-09 20:04:46,862 [INFO] WebApp:448 - Apply proxy settings
+2024-10-09 20:04:46,862 [INFO] WebApp:533 - Chromium requires no authentication
+2024-10-09 20:04:46,863 [INFO] WebApp:476 - Direct internet connection detected
+2024-10-09 20:04:48,208 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-WB05N.1.1.0
+2024-10-09 20:04:49,577 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-F7.1.1.0
+2024-10-09 20:04:50,745 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-MEMS1.11.0.0
+2024-10-09 20:04:51,540 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-FLIGHT1.5.0.2
+2024-10-09 20:04:51,863 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-DISPLAY.3.0.0
+2024-10-09 20:04:52,129 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLE1.7.0.0
+2024-10-09 20:04:52,431 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC10.1.0.0
+2024-10-09 20:04:52,742 [WARN] PackLoader:240 - Cannot read IP mode file for emotas.I-CUBE-CANOPEN.1.3.0
+2024-10-09 20:04:53,286 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLEMGR.3.1.0
+2024-10-09 20:04:53,487 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-SMARTAG2.1.2.0
+2024-10-09 20:04:54,099 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2024-10-09 20:04:54,100 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2024-10-09 20:04:54,101 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2024-10-09 20:04:54,102 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2024-10-09 20:04:54,104 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2024-10-09 20:04:54,106 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-WL.2.0.0
+2024-10-09 20:04:54,398 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-MOTENV1.5.0.0
+2024-10-09 20:04:54,635 [WARN] PackLoader:240 - Cannot read IP mode file for wolfSSL.I-CUBE-wolfMQTT.1.19.0
+2024-10-09 20:04:55,470 [WARN] PackLoader:240 - Cannot read IP mode file for WES.I-CUBE-Cesium.1.3.0
+2024-10-09 20:04:55,663 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLE2.3.3.0
+2024-10-09 20:04:56,007 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC9.1.0.0
+2024-10-09 20:04:56,185 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TCPP.4.1.0
+2024-10-09 20:04:56,601 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-G0.1.1.0
+2024-10-09 20:04:56,915 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:04:57,635 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SAFEA1.1.2.2
+2024-10-09 20:04:57,873 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC4.3.0.0
+2024-10-09 20:04:58,617 [WARN] PackLoader:240 - Cannot read IP mode file for EmbeddedOffice.I-CUBE-FS-RTOS.1.0.1
+2024-10-09 20:04:58,618 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,618 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,618 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,623 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,625 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,625 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,625 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,625 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,625 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,626 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,626 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,626 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,626 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,626 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,626 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,626 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,626 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,626 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,627 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,627 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,627 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,627 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,627 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,627 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,627 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,627 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,627 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,627 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,628 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,628 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,628 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,628 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,628 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,628 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,628 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,628 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,628 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,628 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,629 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,629 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,629 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,629 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,629 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,629 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,629 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,629 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,629 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,629 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,630 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,630 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,630 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,630 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,630 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,630 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,630 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,630 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,630 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,631 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,631 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,631 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,631 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,631 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,631 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,631 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-10-09 20:04:58,971 [WARN] PackLoader:240 - Cannot read IP mode file for RealThread.X-CUBE-RT-Thread_Nano.4.1.1
+2024-10-09 20:04:59,115 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-ATR-SIGFOX1.3.2.0
+2024-10-09 20:04:59,492 [WARN] PackLoader:240 - Cannot read IP mode file for wolfSSL.I-CUBE-wolfSSL.5.7.2
+2024-10-09 20:04:59,756 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-EEPRMA1.5.1.0
+2024-10-09 20:05:00,070 [WARN] PackLoader:240 - Cannot read IP mode file for ITTIA_DB.I-CUBE-ITTIADB.8.9.0
+2024-10-09 20:05:00,649 [WARN] PackLoader:240 - Cannot read IP mode file for SEGGER.I-CUBE-embOS.1.3.1
+2024-10-09 20:05:01,058 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ALGOBUILD.1.4.0
+2024-10-09 20:05:01,411 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AI.9.1.0
+2024-10-09 20:05:02,675 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-F4.1.1.0
+2024-10-09 20:05:03,057 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ISPU.2.1.0
+2024-10-09 20:05:03,296 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-FREERTOS.1.2.0
+2024-10-09 20:05:04,106 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-L5.2.0.0
+2024-10-09 20:05:04,736 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC6.3.1.0
+2024-10-09 20:05:05,370 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-DPower.1.2.0
+2024-10-09 20:05:05,599 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AI.9.0.0
+2024-10-09 20:05:05,659 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC7.1.0.1
+2024-10-09 20:05:06,432 [WARN] ConditionMgr:438 - getConditionDescription Invalid condition id : LAN8742 Phy interface Condition cause : null
+2024-10-09 20:05:06,432 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-L4.2.0.0
+2024-10-09 20:05:06,433 [WARN] ConditionMgr:1039 - genDependencies : Invalid condition id : LAN8742 Phy interface Condition cause : null
+2024-10-09 20:05:06,434 [WARN] ConditionMgr:1039 - genDependencies : Invalid condition id : LAN8742 Phy interface Condition cause : null
+2024-10-09 20:05:06,434 [WARN] ConditionMgr:1039 - genDependencies : Invalid condition id : LAN8742 Phy interface Condition cause : null
+2024-10-09 20:05:06,658 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SFXS2LP1.4.0.0
+2024-10-09 20:05:07,734 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-H7.3.3.0
+2024-10-09 20:05:07,956 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-IPS.3.0.0
+2024-10-09 20:05:09,087 [WARN] ConditionMgr:438 - getConditionDescription Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2024-10-09 20:05:09,087 [WARN] ConditionMgr:438 - getConditionDescription Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2024-10-09 20:05:09,089 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0
+2024-10-09 20:05:09,090 [WARN] ConditionMgr:1039 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2024-10-09 20:05:09,090 [WARN] ConditionMgr:1039 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2024-10-09 20:05:09,090 [WARN] ConditionMgr:1039 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2024-10-09 20:05:09,090 [WARN] ConditionMgr:1039 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2024-10-09 20:05:09,090 [WARN] ConditionMgr:1039 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2024-10-09 20:05:09,240 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-GNSS1.7.0.0
+2024-10-09 20:05:09,621 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-STBOX1.2.0.0
+2024-10-09 20:05:10,078 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SUBG2.5.0.0
+2024-10-09 20:05:10,186 [WARN] PackLoader:240 - Cannot read IP mode file for Cesanta.I-CUBE-Mongoose.7.13.0
+2024-10-09 20:05:10,290 [INFO] WebApp:220 - Starting web application
+2024-10-09 20:05:10,290 [INFO] WebApp:578 - Web application path used C:\ST\STM32CubeIDE_1.16.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.0.202406281431\db\plugins\mcufinder\reactClient1\index.html
+2024-10-09 20:05:11,147 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-G4.2.0.0
+2024-10-09 20:05:11,484 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ALS.1.0.2
+2024-10-09 20:05:11,846 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOUCHGFX.4.24.0
+2024-10-09 20:05:12,065 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOUCHGFX.4.24.1
+2024-10-09 20:05:12,161 [WARN] PackLoader:240 - Cannot read IP mode file for wolfSSL.I-CUBE-wolfTPM.3.4.0
+2024-10-09 20:05:12,244 [INFO] UserAuth:417 - Internet connection configuration mode: 1
+2024-10-09 20:05:12,530 [WARN] PackLoader:240 - Cannot read IP mode file for portGmbH.I-Cube-SoM-uGOAL.1.1.0
+2024-10-09 20:05:13,062 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-H7RS.1.0.0
+2024-10-09 20:05:13,243 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-ATR-ASTRA1.2.0.0
+2024-10-09 20:05:13,705 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOF1.3.4.2
+2024-10-09 20:05:14,200 [WARN] PackLoader:240 - Cannot read IP mode file for Infineon.AIROC-Wi-Fi-Bluetooth-STM32.1.6.1
+2024-10-09 20:05:14,802 [WARN] PackLoader:240 - Cannot read IP mode file for wolfSSL.I-CUBE-wolfSSH.1.4.17
+2024-10-09 20:05:14,802 [INFO] ThirdParty:978 - Integrity check success = true
+2024-10-09 20:05:14,802 [INFO] IntegrityCheckThread:100 - exiting critical section [integrity check]
+2024-10-09 20:05:14,802 [INFO] IntegrityCheckThread:103 - End integrity checks thread
+2024-10-09 20:05:40,591 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:05:40,735 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:05:44,515 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:05:45,820 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:05:50,019 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:05:51,342 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:05:56,047 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:05:57,327 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:06:01,529 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:06:01,662 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:06:07,527 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:06:07,667 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:07:18,030 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:07:19,255 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:07:23,521 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:07:23,659 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:07:29,554 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:07:29,690 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:07:35,507 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:07:35,644 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:08:40,508 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:08:40,786 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:08:46,527 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:08:46,655 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:08:52,515 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:08:52,632 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:09:58,026 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:09:58,209 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:10:04,013 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:10:04,130 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:11:18,051 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:11:18,454 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:12:35,017 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:12:35,201 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:12:40,512 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:12:40,635 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:12:46,510 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:12:47,760 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:12:52,020 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:12:52,142 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:12:57,508 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:12:57,658 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:13:03,519 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:13:04,974 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:13:09,015 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:13:09,245 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:13:15,016 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:13:15,136 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:13:20,523 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:13:20,663 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:13:26,510 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:13:26,771 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:13:32,014 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:13:32,138 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:13:37,527 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:13:37,651 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:13:43,011 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:13:43,152 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:13:49,018 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:13:50,113 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:13:54,516 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:13:54,650 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:14:00,012 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:14:00,133 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:14:06,014 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:14:07,068 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:14:11,522 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:14:11,660 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:14:17,018 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:14:17,158 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:14:23,001 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:14:24,392 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:14:28,509 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:14:28,642 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:14:34,012 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:14:34,135 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:14:40,010 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:14:40,127 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:14:45,521 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:14:45,673 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:14:51,515 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:14:52,636 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:14:57,014 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:14:57,145 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:15:02,522 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:15:02,646 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:15:08,512 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:15:08,645 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:16:16,520 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:16:16,718 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:16:22,526 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:16:23,238 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:16:28,045 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:16:28,326 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:16:33,530 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:16:33,660 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:16:39,518 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:16:40,422 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:16:45,018 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:16:45,140 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:16:50,518 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:16:50,661 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:16:56,517 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:17:09,944 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:17:14,016 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:17:14,368 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:18:16,507 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:18:16,692 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:18:22,510 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:18:22,796 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:18:28,023 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:18:28,138 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:18:34,017 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:18:35,303 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:18:39,523 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:18:39,648 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:18:45,510 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:18:45,770 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:18:51,018 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:18:51,143 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:18:57,024 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:18:58,152 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:19:02,514 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:19:02,647 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:19:08,519 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:19:09,797 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:19:14,018 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:19:14,137 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:19:20,019 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:19:20,143 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:19:25,513 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:19:25,637 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:19:31,511 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:19:31,650 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:19:37,519 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:19:37,853 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:19:43,017 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:19:43,145 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:19:49,005 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:19:49,125 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:19:54,517 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:19:54,648 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:20:00,508 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:20:01,681 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:20:06,015 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:20:06,145 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:20:12,005 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:20:12,131 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:20:17,509 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:20:17,635 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:20:23,520 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:20:23,641 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:20:29,007 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:20:29,134 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:20:37,018 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:20:37,147 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:20:45,008 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:20:45,356 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:20:52,517 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:20:52,699 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:20:59,020 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:20:59,146 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:21:04,525 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:21:04,652 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:21:10,018 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:21:10,138 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:21:17,022 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:21:17,144 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:21:25,024 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:21:25,165 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:21:32,022 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:21:32,709 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:21:37,515 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:21:37,633 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:21:43,014 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:21:43,324 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:21:48,007 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:21:48,134 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:21:53,512 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:21:53,642 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:21:59,013 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:21:59,136 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:22:05,510 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:22:06,521 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:22:11,016 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:22:11,153 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:22:15,512 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:22:17,166 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:22:21,021 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:22:22,017 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:22:26,520 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:22:26,649 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:22:33,528 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:22:49,335 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:22:49,519 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:22:49,825 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:22:57,528 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:22:59,973 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:23:04,029 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:23:04,155 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:23:10,029 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:23:10,728 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:23:15,514 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:23:16,322 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:23:21,014 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:23:21,884 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:23:26,523 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:23:27,838 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:23:32,027 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:23:32,145 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:23:37,509 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:23:37,634 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:23:45,021 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:23:45,149 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:23:51,528 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:23:52,778 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:23:57,026 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:23:57,162 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:24:02,018 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:24:02,920 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:24:13,023 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:24:20,588 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:25:35,021 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:25:40,981 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:25:44,012 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:25:46,415 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:25:50,530 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:25:50,666 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:26:56,551 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:26:56,761 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:27:02,522 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:27:02,650 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:28:17,025 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:28:17,196 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:28:24,023 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:28:25,293 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:28:29,518 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:28:29,638 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:28:35,513 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:28:35,633 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:29:38,037 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:29:38,238 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:29:44,018 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:29:44,142 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:30:58,020 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:30:58,160 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:32:15,016 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:32:15,204 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:32:20,509 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:32:20,626 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:32:26,505 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:32:26,825 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:32:32,016 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:32:32,147 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:32:37,525 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:32:37,649 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:32:45,506 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:32:45,626 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:32:51,017 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:32:51,137 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:32:57,019 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:32:57,345 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:33:02,513 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:33:02,636 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:33:08,022 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:33:08,153 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:33:14,020 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:33:14,147 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:33:21,518 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:33:26,837 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:33:29,508 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:33:29,634 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:33:35,016 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:33:35,133 [INFO] WebApp:186 - Connection restablished
+2024-10-09 20:33:42,513 [INFO] WebApp:189 - Connection lost
+2024-10-09 20:33:42,635 [INFO] WebApp:186 - Connection restablished
