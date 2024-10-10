@@ -12,3 +12,25 @@ arm-none-eabi-size  tdse-tp2_01-model_integration.elf
   15740	    196	   2308	  18244	   4744	tdse-tp2_01-model_integration.elf
 Finished building: default.size.stdout
  
+21:28:54 **** Incremental Build of configuration Debug for project tdse-tp2_01-model_integration ****
+make -j4 all 
+arm-none-eabi-gcc "../app/src/task_sensor.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F103xB -c -I../Core/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../Drivers/CMSIS/Include -I../app/inc -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"app/src/task_sensor.d" -MT"app/src/task_sensor.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "app/src/task_sensor.o"
+arm-none-eabi-gcc -o "tdse-tp2_01-model_integration.elf" @"objects.list"  -lrdimon -mcpu=cortex-m3 -T"C:\Users\User\STM32CubeIDE\tdse_workspace_tp2\tdse-tp2_01-model_integration\STM32F103RBTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="tdse-tp2_01-model_integration.map" -Wl,--gc-sections -static -specs=rdimon.specs --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+C:/ST/STM32CubeIDE_1.16.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.200.202406191623/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/bin/ld.exe: warning: tdse-tp2_01-model_integration.elf has a LOAD segment with RWX permissions
+Finished building target: tdse-tp2_01-model_integration.elf
+ 
+arm-none-eabi-size  tdse-tp2_01-model_integration.elf 
+arm-none-eabi-objdump -h -S tdse-tp2_01-model_integration.elf  > "tdse-tp2_01-model_integration.list"
+   text	   data	    bss	    dec	    hex	filename
+  15896	    196	   2308	  18400	   47e0	tdse-tp2_01-model_integration.elf
+Finished building: default.size.stdout
+ 
+Finished building: tdse-tp2_01-model_integration.list
+ 
+21:29:47 **** Incremental Build of configuration Debug for project tdse-tp2_01-model_integration ****
+make -j4 all 
+arm-none-eabi-size  tdse-tp2_01-model_integration.elf 
+   text	   data	    bss	    dec	    hex	filename
+  15896	    196	   2308	  18400	   47e0	tdse-tp2_01-model_integration.elf
+Finished building: default.size.stdout
+ 
